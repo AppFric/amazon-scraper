@@ -12,3 +12,5 @@ composer install
 ```
 Usage:
 <host_name>/api/parser?link=https://www.amazon.co.uk/Winning-Moves-29612-Trivial-Pursuit/dp/B075716WLM/
+
+http://xxxxxxxxxxx.herokuapp.com/public/api/parser?link=https://www.amazon.com/DJI-Mavic-Drone-Remote-Controller/dp/B07GSNYWCR
